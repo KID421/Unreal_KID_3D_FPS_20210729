@@ -1483,7 +1483,7 @@ Windows.Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaul
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729_PC")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_PC")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -1797,7 +1797,7 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:27=(ActionName="瞄準
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:28=(ActionName="撿取道具",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=E)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:29=(ActionName="測試傷害",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Z)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:30=(ActionName="重新遊戲",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=P)
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:31=(ActionName="離開遊戲",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Escape)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:31=(ActionName="離開遊戲",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=O)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Scale=1.000000,Key=W)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Scale=-1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Scale=1.000000,Key=Up)

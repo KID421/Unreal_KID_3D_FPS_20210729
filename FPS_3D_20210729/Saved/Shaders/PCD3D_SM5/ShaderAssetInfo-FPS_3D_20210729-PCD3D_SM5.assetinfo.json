@@ -52,6 +52,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -61,12 +67,6 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -221,6 +221,20 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B36B76B6E9DF402BDD476A3983430ACDD35C6E64",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body2.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body1.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M小地圖.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "526517E551507BF88018DE00A31F1C928215EAF2",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset",
@@ -241,6 +255,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2D0138A2F124B413FE234FB5FA607EDCF610AD01",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "83A855917EE6994A62D01A8A58B42D6045CB4B7D",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset",
@@ -254,45 +281,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "77B0DB5BDDA3DB568F123A3D87436039BD3F0453",
+			"ShaderMapHash": "8AC0CE8A91367DF47466609394744EE8BB7A92A3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Int_WorldUV_Mat.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M_子彈.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "7A9505D20E87350342425901ADECB20A78A41942",
+			"ShaderMapHash": "0C8130BF671122EB2209361F667069935A80CFE5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/怪物/skeletonZombie_Material.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "B048AB52C167777225C5E8537CB0E49C167B2938",
+			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Alpha_Material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BACAAA83A00D573D4E977BF70E535E384BC1F546",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Foliage_mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "139302B886F5AD6749C91158C4A1D56D40353A14",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/water_Translucent_material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "97D36AF4E4F6F24638739811C26E9F1150B226BC",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/base_material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AF4E5ED4424CE78B01200005AB559F529B8E7909",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/M_Flag.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/子彈箱/m_ammo_box.uasset"
 			]
 		},
 		{
@@ -308,9 +311,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7A9505D20E87350342425901ADECB20A78A41942",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "FBD995641D1B183A921EE3FB993C82400CDBF665",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Lum_Pattern_material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BACAAA83A00D573D4E977BF70E535E384BC1F546",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Foliage_mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "77B0DB5BDDA3DB568F123A3D87436039BD3F0453",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Int_WorldUV_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B048AB52C167777225C5E8537CB0E49C167B2938",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Alpha_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "139302B886F5AD6749C91158C4A1D56D40353A14",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/water_Translucent_material.uasset"
 			]
 		},
 		{
@@ -323,6 +356,18 @@
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "97D36AF4E4F6F24638739811C26E9F1150B226BC",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/base_material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4E5ED4424CE78B01200005AB559F529B8E7909",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/M_Flag.uasset"
 			]
 		},
 		{
@@ -359,6 +404,108 @@
 			"ShaderMapHash": "29D5E5A9772118A7A5A75131FCB983C30171715F",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "808E590D94508EA9DFA8A4995C7170374E274A6A",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D701E00C4341906CE59DF4C43A465BC00DA71ACB",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "970764AA63DCE76F0F71D01B2C4A4F8C7803DF70",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
 			]
 		},
 		{
@@ -567,125 +714,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B36B76B6E9DF402BDD476A3983430ACDD35C6E64",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body2.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body1.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Frame.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Pine.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Oak.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Ocean.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Lake.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Panel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "808E590D94508EA9DFA8A4995C7170374E274A6A",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D701E00C4341906CE59DF4C43A465BC00DA71ACB",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Slate.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "970764AA63DCE76F0F71D01B2C4A4F8C7803DF70",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
 			]
 		},
 		{
@@ -814,21 +851,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B0DA3BA23A23DAFA2D810C0733898DF10654CA3E",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "9BA64DB4E9159C9D1F0B9492E936AB00C04731FD",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "B0DA3BA23A23DAFA2D810C0733898DF10654CA3E",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "EDFCF026FF4A3CE678A2797B7E1EBDBC1C85E440",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C062314036B72ADD48596D544B40A6B429BC9337",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog.uasset"
 			]
 		},
 		{
@@ -880,12 +923,6 @@
 			"ShaderMapHash": "E2D1153F19052BAA3A51881BF37F5C8DD7A09AD8",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C062314036B72ADD48596D544B40A6B429BC9337",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog.uasset"
 			]
 		},
 		{
@@ -949,33 +986,45 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6A86DE2B460EECAE9D057E6AEDC0D6F84B5CB9AF",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "987F96A9136B68F645B17E2E01EFDAE4FAD69D53",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "88B96F5F2D5B67FE2282E8F7CEF67551388AB770",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D4E9859D0B75E10383185E1425E13FBFDAE5BC1",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "712C9E53094354B18C18D0FCC69158DC5697572F",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "28D80D595F6DF03D9523D59C2CFDA8D636BC1895",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
 			"Assets": [
 				"../../../Engine/Content/TemplateResources/M_Template_Master.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "161F700E8CF3DDF3DF209736F589A27FCCE98005",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Cloth_Substance_material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5183AC86F883E2402BAC096562AA9C5328835C78",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Lum_material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5BFAF02CD7584AB033614972C4FE40CDE0253011",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Useable_Shader.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FE9C3107D74F7776F02F6EF933187643819D7016",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Emissive_Mat.uasset"
 			]
 		},
 		{
@@ -985,21 +1034,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3078BB1107D92DD7AA491D197737158179F5324D",
+			"ShaderMapHash": "FE9C3107D74F7776F02F6EF933187643819D7016",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Pattern01_Mat.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Emissive_Mat.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FCA36FC897E8704E7ED44EF98C7F82EAFEB4E2D4",
+			"ShaderMapHash": "161F700E8CF3DDF3DF209736F589A27FCCE98005",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "455257A2F73CF63B112A89E8FA370F20FCD4296A",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Ground_Tiles_Unwrap.uasset"
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Cloth_Substance_material.uasset"
 			]
 		},
 		{
@@ -1009,15 +1052,45 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5183AC86F883E2402BAC096562AA9C5328835C78",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Lum_material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "455257A2F73CF63B112A89E8FA370F20FCD4296A",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Ground_Tiles_Unwrap.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "0EF8D37E12ADAB10731C1D3950BFE592065DDAB9",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/M_Streaks_Decal.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "5BFAF02CD7584AB033614972C4FE40CDE0253011",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Useable_Shader.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "5E138B4B02F2A175B211DF9D5067879E17599C12",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/ArchWindow_D_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCA36FC897E8704E7ED44EF98C7F82EAFEB4E2D4",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3078BB1107D92DD7AA491D197737158179F5324D",
+			"Assets": [
+				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Pattern01_Mat.uasset"
 			]
 		},
 		{
@@ -1207,55 +1280,6 @@
 			"ShaderMapHash": "C6F2C44BD467C04C95596A20E0970382A94A7AA9",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M小地圖.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2D0138A2F124B413FE234FB5FA607EDCF610AD01",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "8AC0CE8A91367DF47466609394744EE8BB7A92A3",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M_子彈.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9D4E9859D0B75E10383185E1425E13FBFDAE5BC1",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "28D80D595F6DF03D9523D59C2CFDA8D636BC1895",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0C8130BF671122EB2209361F667069935A80CFE5",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/怪物/skeletonZombie_Material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/子彈箱/m_ammo_box.uasset"
 			]
 		},
 		{
@@ -2114,24 +2138,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "88B96F5F2D5B67FE2282E8F7CEF67551388AB770",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "6A86DE2B460EECAE9D057E6AEDC0D6F84B5CB9AF",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "987F96A9136B68F645B17E2E01EFDAE4FAD69D53",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "F85999E1350EACAB33E34E822FE4CAE9953AAC0F",
 			"Assets": [
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Color.uasset"
@@ -2146,12 +2152,6 @@
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_LeafSpray.uasset",
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47_Pattern.uasset",
 				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4_Pattern.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "712C9E53094354B18C18D0FCC69158DC5697572F",
-			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER.uasset"
 			]
 		}
 	]
