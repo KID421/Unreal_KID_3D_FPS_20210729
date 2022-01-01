@@ -1,2157 +1,2193 @@
 {
-	"AssetInfoVersion": 1,
+	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "3676434BDC62FFC0F194E7846C01EA9919113508",
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "CE21B809E59889F66B6C39810C16E6D2FD37E319",
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+				"/Engine/EngineMaterials/GizmoMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "925C0CC2C8424631A2DA6FECA250D0FFCC2C0D85",
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
 		},
 		{
-			"ShaderMapHash": "A3AE248A6F05AA5BB9DDF24C32A2BFFC45368F79",
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "E2C58873EE5237CF535FE59E114BCAB3435AC135",
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "8B55463DC6EBA46E7658781E872CD1A10795C143",
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "27E36195FF2A8E5C7EFA35B1A3664D37FBA9F873",
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
 			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
-				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "931F231FB74937674709FE04BDE3FC7716568737",
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
 			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+				"/OculusVR/Materials/touchController_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
 			]
 		},
 		{
-			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
 			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+				"/OculusVR/Materials/OculusMR_ChromaKey"
 			]
 		},
 		{
-			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
 			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
 			]
 		},
 		{
-			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
 			]
 		},
 		{
-			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+				"/OpenXR/Devices/M_XRController"
 			]
 		},
 		{
-			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
-			"ShaderMapHash": "4FFAF38520D73293207E565918C6B57F7F8E13C9",
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
 			"Assets": [
-				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
 			"Assets": [
-				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "A3609E644F6C533B8F9A24D27AB2285E2D39571D",
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
 			"Assets": [
-				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "E63575823B1855A5BC7AB84D061AC356FBBDAFC1",
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "27D4F827A19CAA0A888D888857CDDC3BC8720D5C",
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
 			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "BAE22A1ABB1CBB248257C342C906E5D3F2723A2D",
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "D23C75799DEF0E787A73E61A3035F2635A865E7A",
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "32D281FF7B9F2B531B6A63F9B56F1FAE852490FB",
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+				"/OculusVR/Materials/PokeAHoleMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "F00F2F9A3CD07DA7457B6B987ED11B739EA06895",
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
 			]
 		},
 		{
-			"ShaderMapHash": "E9F51EE54132DCE7BFFBA8FE653EF3CE494B7150",
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+				"/Engine/EditorMaterials/Camera/CineMat"
 			]
 		},
 		{
-			"ShaderMapHash": "AB2C31709D966AFC311EA77E8CF43C110BEBDFC9",
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "A62102EDF7922A29CF3165F3274B8B16B91B7432",
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "EAE9DA31087D494255A0610F70EF6D831D19D10E",
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
-			"ShaderMapHash": "9D722CA47EEA195E2ECCDB9AE1C393D334E460A3",
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "7A5E8F202B8EC49330571FE4E974F4C1DC111699",
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
 			]
 		},
 		{
-			"ShaderMapHash": "56B1B26291F2A93036D693A99C17271296B6D747",
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
-			"ShaderMapHash": "5E54F8731E4DB06305E2C922AD4FA917B06EF3DF",
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
-			"ShaderMapHash": "AD3B1EE8E520055A0DFECE9D37E93134BDCCB50E",
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+				"/Engine/VREditor/TransformGizmo/Xray"
 			]
 		},
 		{
-			"ShaderMapHash": "0042AAEE9D5EF1F678BC41F998BFA45A32FB002E",
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+				"/Engine/VREditor/TransformGizmo/Main"
 			]
 		},
 		{
-			"ShaderMapHash": "052826F9417262545AE9470F132F0345CDFAAD45",
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "5D5CE78AF765895B0E693106AA943D2E2F24E78A",
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
 			]
 		},
 		{
-			"ShaderMapHash": "B36B76B6E9DF402BDD476A3983430ACDD35C6E64",
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body2.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body1.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/玩家/Ch35_body.uasset"
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "526517E551507BF88018DE00A31F1C928215EAF2",
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_Master.uasset"
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "4A8865C5E911FBAC27FAF960E655D747BE6F543D",
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset"
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "0D6974DD1E5D484A6691DA3CE009EE889712D209",
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset"
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "2D0138A2F124B413FE234FB5FA607EDCF610AD01",
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold.uasset"
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "83A855917EE6994A62D01A8A58B42D6045CB4B7D",
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Opaque_Axes_Spin.uasset"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
 			]
 		},
 		{
-			"ShaderMapHash": "B81E6B401C7E7A7C66933DE328566410BAEDF528",
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase.uasset"
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		},
 		{
-			"ShaderMapHash": "8AC0CE8A91367DF47466609394744EE8BB7A92A3",
+			"ShaderMapHash": "7794CA0FF3FD6BFF377A8B77D050CDE5A5F45314",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M_子彈.uasset"
+				"/Game/玩家/Ch35_body2",
+				"/Game/玩家/Ch35_body",
+				"/Game/玩家/Ch35_body1"
 			]
 		},
 		{
-			"ShaderMapHash": "0C8130BF671122EB2209361F667069935A80CFE5",
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/怪物/skeletonZombie_Material.uasset"
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
-			"ShaderMapHash": "2CAFFEE9FFE336010692E8FA7C6A5EAB01C3EEA4",
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/素材/M小地圖.uasset"
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "92414604FE88DA6AB6F1A1743362A32C77ACACD6",
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/子彈箱/m_ammo_box.uasset"
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "7A9505D20E87350342425901ADECB20A78A41942",
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material.uasset"
+				"/Game/ThirdPerson/Meshes/RampMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "77B0DB5BDDA3DB568F123A3D87436039BD3F0453",
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Int_WorldUV_Mat.uasset"
+				"/Game/Geometry/Meshes/CubeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "B048AB52C167777225C5E8537CB0E49C167B2938",
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Alpha_Material.uasset"
+				"/Game/Mannequin/Character/Materials/M_Male_Body"
 			]
 		},
 		{
-			"ShaderMapHash": "BACAAA83A00D573D4E977BF70E535E384BC1F546",
+			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Foliage_mat.uasset"
+				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
 			]
 		},
 		{
-			"ShaderMapHash": "97D36AF4E4F6F24638739811C26E9F1150B226BC",
+			"ShaderMapHash": "DF22970824430D8A3AD2C0266C312E0A6E0BC7A9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/base_material.uasset"
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
-			"ShaderMapHash": "139302B886F5AD6749C91158C4A1D56D40353A14",
+			"ShaderMapHash": "F0FA02A67FBBCF715E35F0F2A4FFD15364BB3086",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/water_Translucent_material.uasset"
+				"/Game/StarterContent/Props/Materials/M_Frame"
 			]
 		},
 		{
-			"ShaderMapHash": "AF4E5ED4424CE78B01200005AB559F529B8E7909",
+			"ShaderMapHash": "72DB7E5A6B6B725CBECAD78E7FB2CF2F8EADC9A6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/M_Flag.uasset"
+				"/Game/StarterContent/Materials/M_Glass"
 			]
 		},
 		{
-			"ShaderMapHash": "EA3539C5254CA89EBED2919CA15A4B6D937F6669",
+			"ShaderMapHash": "D7497840AC137E8C8AAC0D731C7CCB3ADD279DB2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Paint_Ground.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
 			]
 		},
 		{
-			"ShaderMapHash": "8834F45F0BCB42B751EDC71A0B5A5ABAEEC8E0B5",
+			"ShaderMapHash": "4824F604A30BC5219EF292894E6D5B0B1C2A7380",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Paint_Ground.uasset"
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
 			]
 		},
 		{
-			"ShaderMapHash": "FBD995641D1B183A921EE3FB993C82400CDBF665",
+			"ShaderMapHash": "3B23D7BA68647DF0DD1CB3A63FA8D22B900CE602",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Lum_Pattern_material.uasset"
+				"/Game/StarterContent/Materials/M_Wood_Pine"
 			]
 		},
 		{
-			"ShaderMapHash": "90602ECAB67E7B18B5BB38DC01968BCE606D23B5",
+			"ShaderMapHash": "3E58ADAE4C06CCC672ECE98A6BA8E0A8BCDBBB69",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Mat.uasset"
+				"/Game/StarterContent/Materials/M_Wood_Oak"
 			]
 		},
 		{
-			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
+			"ShaderMapHash": "988096A1539C5A5F39CF1958345652A3F759D375",
 			"Assets": [
-				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
 			]
 		},
 		{
-			"ShaderMapHash": "84E77B16DB6849A87F7F4730D1BD9FAFFE41D989",
+			"ShaderMapHash": "7293F4B212935DCC0A57547B03C953D24AE814D5",
 			"Assets": [
-				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
 			]
 		},
 		{
-			"ShaderMapHash": "040BB8DCB003F495FD9AD7E67786CBEADDF172C5",
+			"ShaderMapHash": "888FA0F09A6717FBC98CAEA29DA8E745A869D8EE",
 			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+				"/Game/StarterContent/Materials/M_Water_Ocean"
 			]
 		},
 		{
-			"ShaderMapHash": "7A49726590FB14FEBC69D0AAE121480CE70D3966",
+			"ShaderMapHash": "B9FC330B84198BA79D67AD1358AFFACA8C3FD7EB",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/ThirdPerson/Meshes/RampMaterial.uasset"
+				"/Game/StarterContent/Materials/M_Water_Lake"
 			]
 		},
 		{
-			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"ShaderMapHash": "C24FE033C05120AF73E349FD63A2638164A53D4C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/Geometry/Meshes/CubeMaterial.uasset"
+				"/Game/StarterContent/Materials/M_Tech_Panel"
 			]
 		},
 		{
-			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"ShaderMapHash": "3712AA3719AC40F15F0B6201641EDA31DF0299FC",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/Mannequin/Character/Materials/M_Male_Body.uasset"
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
 			]
 		},
 		{
-			"ShaderMapHash": "29D5E5A9772118A7A5A75131FCB983C30171715F",
+			"ShaderMapHash": "CA53281C24BF05C15884E42781EE472783EA3D23",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
 			]
 		},
 		{
-			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
+			"ShaderMapHash": "C18B0705EDD0E0EC7867E99442036D241A1B5054",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
 			]
 		},
 		{
-			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"ShaderMapHash": "D84EAA355BD6EA7CA37A421A0E89C35DADD656C9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+				"/Game/StarterContent/Materials/M_Rock_Slate"
 			]
 		},
 		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"ShaderMapHash": "3536604E0C86AD97F1445377CBA5222E0BD519F5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
 			]
 		},
 		{
-			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"ShaderMapHash": "1C5341AA65E618F58BACDDD914ED88400BF3C356",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
 			]
 		},
 		{
-			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
+			"ShaderMapHash": "A34E9513E1507B85D1D30BAC49FB511AF7B3F1BF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
 			]
 		},
 		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"ShaderMapHash": "2662B834334F1595D47E66B5DAABFDCC1F91834D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Steel"
 			]
 		},
 		{
-			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
+			"ShaderMapHash": "4C677C082F3DCF98507A60C0927AC77006E2DA72",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Rust"
 			]
 		},
 		{
-			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
+			"ShaderMapHash": "EDA7A6D577EB0133614EB81AE0881C3D66CE5B54",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Frame.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Gold"
 			]
 		},
 		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"ShaderMapHash": "A06660B213E4EFB006A2D10E98139621BF23554F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Glass.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
 			]
 		},
 		{
-			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"ShaderMapHash": "404BCC74169AB1E5D79193B91B9B8C7EAA05CB3B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+				"/Game/StarterContent/Materials/M_Ground_Moss"
 			]
 		},
 		{
-			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
+			"ShaderMapHash": "64EF441563B4E2652896675A9341549B2DB88E26",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
 			]
 		},
 		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"ShaderMapHash": "485725C82E671F793EADB7FCBDC3AAF92C509141",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
-			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"ShaderMapHash": "848A095CBE87B1E6B661EA3518348DA9C6DF4A64",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
 			]
 		},
 		{
-			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
+			"ShaderMapHash": "A7F6ADE573DFB03C2EC79714CBE64F86A8AD2E53",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
 			]
 		},
 		{
-			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"ShaderMapHash": "403BE01FED35672468C59021EDD516BBF0154AC5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
 			]
 		},
 		{
-			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
+			"ShaderMapHash": "5FFD26758DDB5C02FE521CB7DC1BC4DD1900DFAD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
 			]
 		},
 		{
-			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
+			"ShaderMapHash": "192F650EEF30F58A8E64686C37FCC6D3B0EB6741",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Water_Lake.uasset"
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
 			]
 		},
 		{
-			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
+			"ShaderMapHash": "05079645DDCF124612D45FD5B0886A99280BAD81",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
 			]
 		},
 		{
-			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
+			"ShaderMapHash": "83805D518E3F66AFBE011BE09A6674C65A8DF4F3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
 			]
 		},
 		{
-			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"ShaderMapHash": "CE546EFAB8F791D26B9314F9FEEABA379CCCABA9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
 			]
 		},
 		{
-			"ShaderMapHash": "808E590D94508EA9DFA8A4995C7170374E274A6A",
+			"ShaderMapHash": "E278A89516B616AFDCD4CE707E3C2C33A854F2B7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
 			]
 		},
 		{
-			"ShaderMapHash": "D701E00C4341906CE59DF4C43A465BC00DA71ACB",
+			"ShaderMapHash": "000FA9ABDD5BCFDE0E7B827F20D206074D2A1819",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
 			]
 		},
 		{
-			"ShaderMapHash": "970764AA63DCE76F0F71D01B2C4A4F8C7803DF70",
+			"ShaderMapHash": "E280CADBB1F905A427BA1FA696C45EBB5E56238F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
 			]
 		},
 		{
-			"ShaderMapHash": "9D072CEB90ACE1E03714F2A2BBFE16A76CEAE01C",
+			"ShaderMapHash": "EE5C779A86755473406ED05E9E7490306F8F5F67",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
 			]
 		},
 		{
-			"ShaderMapHash": "B9D4A13B9CE3552A35825569AC23B9084B3077AC",
+			"ShaderMapHash": "00ACD0B43BEB9AE01C373EBB8D2FFA362E9E34ED",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
 			]
 		},
 		{
-			"ShaderMapHash": "94CB72591BFB1AA0F8993301571CBEC81649DBD4",
+			"ShaderMapHash": "D759BD80381B59F9597345BC0B20E373FF0EA3D0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
 			]
 		},
 		{
-			"ShaderMapHash": "4442ECD6AF786883A2D80448E4265B33E8AD9323",
+			"ShaderMapHash": "7E399F23D721F54A0D97D123548387ACA5389207",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+				"/Game/StarterContent/Props/Materials/M_TableRound"
 			]
 		},
 		{
-			"ShaderMapHash": "D0B077EFD5B2AEAE662EBCA6D98D4D99245F1A66",
+			"ShaderMapHash": "E5A2A38F8DE5EBC5BFE0666AB88236957704957F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+				"/Game/StarterContent/Props/Materials/M_Statue"
 			]
 		},
 		{
-			"ShaderMapHash": "114D1F72B756BFD8919F9D877527F4D6EE46AFB9",
+			"ShaderMapHash": "64053DD20DD55BBB893B8CFCDF467A2FE0702D59",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
 			]
 		},
 		{
-			"ShaderMapHash": "5E252B10E291544575D400D35751B0A0848885FC",
+			"ShaderMapHash": "A9223EF722A1976F02E4844188B2E458A701146B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+				"/Game/StarterContent/Props/Materials/M_Chair"
 			]
 		},
 		{
-			"ShaderMapHash": "A5623A7246D9C37E244D4F1BF9DAA428D5E010D1",
+			"ShaderMapHash": "2E8420907651514121F81FBBC05B805804ECB455",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Copper"
 			]
 		},
 		{
-			"ShaderMapHash": "94EB8C42486608465E948598270DF54AC28B49A8",
+			"ShaderMapHash": "2E03A16FC9B8D6F43D7EE3677CA7C5683BC7CFD9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
 			]
 		},
 		{
-			"ShaderMapHash": "17B2758286D829FF6589C4CD01F8701D618225E8",
+			"ShaderMapHash": "C2F3D6DA7DD6D5C19039244238EBE580DD484B3D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
 			]
 		},
 		{
-			"ShaderMapHash": "DFBC3ECA43EA2DACAD9CE4A535A90896A66ABCDF",
+			"ShaderMapHash": "4808F2C13D119176F2E8C48220A0C41C36814F04",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+				"/Game/StarterContent/Props/Materials/M_Lamp"
 			]
 		},
 		{
-			"ShaderMapHash": "9732BB67E7B01B76E3A36DEC3FB06B83D5A1B032",
+			"ShaderMapHash": "73675733B6C9FB625BD19471C448920CFCC717FE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
 			]
 		},
 		{
-			"ShaderMapHash": "99409896C3E6DBCF4A554C37365C25B380AB4994",
+			"ShaderMapHash": "E728275E86305BFF6DC77C8B1CF973DB1FB3C6C7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Spark"
 			]
 		},
 		{
-			"ShaderMapHash": "894C7354ACE316054282CECB3D7CAA3188137158",
+			"ShaderMapHash": "5FB583605FAD51777093E020EDE159CC4A7441AB",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp"
 			]
 		},
 		{
-			"ShaderMapHash": "01C8C1CB329D586C1591D113A5786B084D31BA32",
+			"ShaderMapHash": "13B9C1BFAE87A304BD7E1C7C6112EEF4A5AA66A5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
 			]
 		},
 		{
-			"ShaderMapHash": "72013F85FC5045433FA0BA0AA1D58B5988AAC479",
+			"ShaderMapHash": "DB4A6E58D03435E971AEBB01A0B5F65BA94DCCD5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "84AE8662EB7A05DAF1062FB06388163A632706CA",
+			"ShaderMapHash": "F66FC83168E3609D05D512B3BC2E29DE9767506D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
-			"ShaderMapHash": "81BBF38C47BCCBB08F85C024513C7A72D27D603A",
+			"ShaderMapHash": "AC50A361793F211DA25EF5F9C6DCE6EBCBF32171",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
 			]
 		},
 		{
-			"ShaderMapHash": "8783C3F34079967805E0FC7756662EE44E9F2ABD",
+			"ShaderMapHash": "FBE6507D74A90CAF1D9703878E705BBEE6857E3C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid",
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
 			]
 		},
 		{
-			"ShaderMapHash": "C92742D609EAB70F01775F714942A6C29D653CCB",
+			"ShaderMapHash": "12A4CD629A96EC736B1DCD9D15D13675DC93FDE4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
 			]
 		},
 		{
-			"ShaderMapHash": "4C2BD69FDA51A8977763FC8E2CFBB7D6E2056076",
+			"ShaderMapHash": "7DCD77054A53363F7D91F653DCC448DFB99D8FE2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
 			]
 		},
 		{
-			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"ShaderMapHash": "A165473EE0B6F49CBE44CF9DCD8C65DD55ED9812",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
 			]
 		},
 		{
-			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
+			"ShaderMapHash": "7875DE8D2E60F0FEC44D3EF441472166EBC11041",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
 			]
 		},
 		{
-			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
+			"ShaderMapHash": "BEC82E0E9F7F980E52C66AC59BE225CB3ED0EE9A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
 			]
 		},
 		{
-			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
+			"ShaderMapHash": "F54906C80055D636BC39802D22A7721B7F62D200",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Statue.uasset"
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "7F83AC4F630484DCDBBCEA3D75F9227A2C34B742",
+			"ShaderMapHash": "CBE1B9A36802EF5FE309B1F94BBC5001044B3DF3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+				"/Game/StarterContent/Materials/M_AssetPlatform"
 			]
 		},
 		{
-			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
+			"ShaderMapHash": "6F17E9E7FE5B4DDD2059AAAB7C4B179A65B10FF5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Chair.uasset"
+				"/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"ShaderMapHash": "89E2D5F1A4FA1444D056C42597D4FB3E129554BD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST"
 			]
 		},
 		{
-			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
+			"ShaderMapHash": "C44502BDAFB7645FEE02E22F80786A8AF22E7977",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11",
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE",
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_Gold"
 			]
 		},
 		{
-			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
+			"ShaderMapHash": "5BC70A95B6A5E51346B6E27B17B569F461D4498A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01"
 			]
 		},
 		{
-			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"ShaderMapHash": "4EB1A780E1186B5732AAA789E14DA8336C982CF2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha"
 			]
 		},
 		{
-			"ShaderMapHash": "FCAC9CD95037A5AD3304161E9E9FFB366B34A74F",
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"/Engine/TemplateResources/M_Template_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "1DE966990D4D65C7C726AC140C2DDC484A356696",
+			"ShaderMapHash": "4098AA338AFA5ED1E5C080E07ECBB65B5576EC27",
 			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
+				"/Game/StarterContent/Props/Materials/M_Shelf"
 			]
 		},
 		{
-			"ShaderMapHash": "C9C8E782F3F46C917FBB4556885514C762EE6E02",
+			"ShaderMapHash": "0C8640007F68F568FB0B7D36A50085965B53F819",
 			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+				"/Game/StarterContent/Props/Materials/M_Rock"
 			]
 		},
 		{
-			"ShaderMapHash": "D51FD1443DC4C48B724346ACB960C6A4A4BB8CB7",
+			"ShaderMapHash": "D350804326C7235317B41F7417B108D51B8081B4",
 			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset"
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain"
 			]
 		},
 		{
-			"ShaderMapHash": "36515B0B4C9FB11E4AE29663ED31A36A35EE30D2",
+			"ShaderMapHash": "BF92B7BC41D29173E343A98248B5D6704727787C",
 			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset"
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
 			]
 		},
 		{
-			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
+			"ShaderMapHash": "6C80021D77B7FBE5BA85056BEC9D641E61C28711",
 			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+				"/Game/StarterContent/Props/Materials/M_Door"
 			]
 		},
 		{
-			"ShaderMapHash": "ECF211909B951137D59C1A4B4AC46570D95B1FC7",
+			"ShaderMapHash": "0229ADA9A973090D936E93410D724337EE4AD624",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+				"/Game/StarterContent/Props/Materials/M_Bush"
 			]
 		},
 		{
-			"ShaderMapHash": "F149164436465E20E7F626109FB5766FA03745F2",
+			"ShaderMapHash": "ED6C71D937C4B2CCCF8484A39273C969BB5F7AD7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
 			]
 		},
 		{
-			"ShaderMapHash": "B1792DD387C7D34880F6DCA4465C5BEDF6D36971",
+			"ShaderMapHash": "237E51E494F39D873FE8943B0EB946EBD32B5619",
 			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
 			]
 		},
 		{
-			"ShaderMapHash": "A805A4757EFDBB4853EBCBFF4D72353008A92058",
+			"ShaderMapHash": "039A91F25D4D3C75E91D1CFBA4AFA4EC135038A6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycRoom_01.uasset"
+				"/Game/StarterContent/Particles/Materials/M_Burst"
 			]
 		},
 		{
-			"ShaderMapHash": "FF566B240CFD11CB5E27CE439D47A42AEDDBAB6F",
+			"ShaderMapHash": "2BDB0F7A0133DB2F54C24EADB1D89DFAAE7C4A9E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_1Meter_01.uasset"
+				"/Engine/EngineMaterials/EmissiveTexturedMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "7EC75CECC83CCC7B7ED53C9513E25D9C17E65CDD",
+			"ShaderMapHash": "16B748F0862FF155F0AA30A563EFDB5CA32CDFA7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycWall_01.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Material_instances/Cloth_Red_inst7"
 			]
 		},
 		{
-			"ShaderMapHash": "C2C06F909C9CEB90BF1E910E5B2C814247E8D788",
+			"ShaderMapHash": "DA28B2C8AD5680BF17E5FF36E2FEF64097B603F2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Telecharge_char_01"
 			]
 		},
 		{
-			"ShaderMapHash": "7E5B43CEED05FC467E4FA2157F801EC8E08A1315",
+			"ShaderMapHash": "BA7B3B2ACA6A321FA3EA543C2A5E3AAA0C7E14EE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Trans_TilePan_2sided_meshEmit_02.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "21150C7C551BEE4B839DC20116C3FD8F0CC4BC81",
+			"ShaderMapHash": "E237B1DB3EE09126D5717FBE694052F4E08843A2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Sprite_01_5x5_SubUV.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Radial_add_subuv_4x4.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Bolt_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightCone.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV_2.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_RingsubUV.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Solid.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Edge.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Base.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SparkCore_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_02_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_2_2_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceHammerGlow",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Outer_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Inner_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_Inst",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlashHalf_Add_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Shield_Rim_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleFlame",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "163896AB388D923022D526F3CC288D5C8993DB9F",
+			"ShaderMapHash": "A1DB2CE152153B4D2AC8CEAC14ECCF1C2CE5CB76",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Lit_SubUV_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastBase.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Splat_03_INST",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_Emissive_02",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeFail_X",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_03_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IB_Blood_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_02_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_01"
 			]
 		},
 		{
-			"ShaderMapHash": "5CD6D8C3FF06A97CC3BA18AA43DD12AE17BDFD57",
+			"ShaderMapHash": "602156AB1B5C8C96E2C86BD1470024A8E202D727",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ChargeMesh_mobile1"
 			]
 		},
 		{
-			"ShaderMapHash": "DD884D11A6999547FFE0132E3E4FAAECFDE569F9",
+			"ShaderMapHash": "1E9AA555F9044A0DAD7AEA4DF5791EEBF67CB62E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Noise_Beam_01_INST"
 			]
 		},
 		{
-			"ShaderMapHash": "B0DA3BA23A23DAFA2D810C0733898DF10654CA3E",
+			"ShaderMapHash": "4D420A2836D20BD0554AE9398653D7E69A912D39",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane03"
 			]
 		},
 		{
-			"ShaderMapHash": "9BA64DB4E9159C9D1F0B9492E936AB00C04731FD",
+			"ShaderMapHash": "034910F8F37EDB8C5CB38AF27C811FA67304E444",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_03"
 			]
 		},
 		{
-			"ShaderMapHash": "EDFCF026FF4A3CE678A2797B7E1EBDBC1C85E440",
+			"ShaderMapHash": "2429D06EAB0BE3C3E39BD90DB81DFA651A053ADF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane03_add"
 			]
 		},
 		{
-			"ShaderMapHash": "9D1810EFD6B42BB230BC1D63BABAC21DBE702432",
+			"ShaderMapHash": "F8641F633E0972376D9C1000C30EE29CFC4DC27D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSword.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_RoboChains_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Lightning_01"
 			]
 		},
 		{
-			"ShaderMapHash": "E2D1153F19052BAA3A51881BF37F5C8DD7A09AD8",
+			"ShaderMapHash": "AB0C5C51663C99F541BDADC14AD8F116BEACF4C0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Noise_Beam_01_IN_2"
 			]
 		},
 		{
-			"ShaderMapHash": "C062314036B72ADD48596D544B40A6B429BC9337",
+			"ShaderMapHash": "94ACF0F75BE43CBF767AF83790F1AD08913E8559",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceSkills_Base_Lit"
 			]
 		},
 		{
-			"ShaderMapHash": "2C760CBC1A7FC2523F07F3BEEF609DE50EEE4959",
+			"ShaderMapHash": "9D3227A2BB1EDDF3F507E04E6B70C3B0D5C97175",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Emis_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01"
 			]
 		},
 		{
-			"ShaderMapHash": "0EF45CB8E4F0894F2BE115D0EC8883AF4B28C784",
+			"ShaderMapHash": "B9B8DC35EC565C43A5859C51081A4FD92AF37A95",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface2.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Trans_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSkills_Base",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_4_8_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Gradient_Pan",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke2_Trans_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_Trans_MeshEmit_Lit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_3_4_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "BB3F37BBC538BB52C7E9CF0895FDE36DE1E88882",
+			"ShaderMapHash": "D949306DC74AC81CA05EE4ECD5A2ECDE18A77034",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GhostSkull.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_DeathPlane_01"
 			]
 		},
 		{
-			"ShaderMapHash": "788F51BC9781F5941FB5E22A93CDEBE839BCA177",
+			"ShaderMapHash": "7AB2200087E213BE77E80A43E0757E6592AF7E80",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit_Blue.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Camo"
 			]
 		},
 		{
-			"ShaderMapHash": "5CBD90F53F350AFDC71D9B2B90516051FE117BE3",
+			"ShaderMapHash": "5590089E7A85F9FB8D9EF19FFC18CE21DF4FABA0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightCone",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Bolt_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Edge",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Solid",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Radial_add_subuv_4x4",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV_2",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CombatArea_Base",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_subUV",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_RingsubUV",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Sprite_01_5x5_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "F72368351ABC8C43C3B0B8459EAACBAC199FCBD2",
+			"ShaderMapHash": "7010CBA1BA34A88F80D9AEA59BD59207F59C59E6",
 			"Assets": [
-				"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow"
 			]
 		},
 		{
-			"ShaderMapHash": "641725EB9EB38B73B1A0C2DDE1068361E88D04A4",
+			"ShaderMapHash": "DA9FAB213A3BFC1F1B414525100ABF53CB2BE0DC",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_JaggedRockFire_MeshEmit_Lit.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Color"
 			]
 		},
 		{
-			"ShaderMapHash": "30DC951AF30B328DECC7BCAD9825893115D4DBEC",
+			"ShaderMapHash": "2FC80DD1EEEA86510D7D425470AD7802F44B6FD0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_YinYang_Circle"
 			]
 		},
 		{
-			"ShaderMapHash": "79FC5410E4FFB0BD68C030F7DC9A228490C4F9FC",
+			"ShaderMapHash": "81EAFB8E6786A102C570614FB44A63149AC90ABF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Sheet_01_INST.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundIce_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundPoison_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_cracks_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "1B9C1E58592982976533C74CAAF4485058FDDF50",
+			"ShaderMapHash": "7D5CB55E8C1B4CD35E8EF53B655A30DFAA662942",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_2_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Addit_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Add",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_subUV_mult",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Add_subUV_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Impact_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "573D3FF9BDC4C4936B7520A0D5EBA0891C62FEC5",
+			"ShaderMapHash": "8970341CAD53712C346D45BAF230E62A70F008CB",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastIcicles.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Fire_03",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3"
 			]
 		},
 		{
-			"ShaderMapHash": "92F69A737EFE6D7C331F10704BA93AD7D8B73AD9",
+			"ShaderMapHash": "545CA304E5D06475018FF663D2BEC3EA4314D42D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SlashDir_Add_01_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeLogo",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "3250171FA8CCBC9F814B359053B1B69D496F487D",
+			"ShaderMapHash": "36DB6EFC0C1647458065595B501F01EF4DE3DA96",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "6F4C9B7E166CAE925F52B24DEA3286A5357A87E3",
+			"ShaderMapHash": "34896A46FAD2634289467D1A93C7EC214EC81267",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard"
 			]
 		},
 		{
-			"ShaderMapHash": "AF3A7DFF9823CF5EB16C8A31865B4E0F06F63E9D",
+			"ShaderMapHash": "9061395F89703924B120E64520C7AB1DD2C4C13E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Targeting_Enemy.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado"
 			]
 		},
 		{
-			"ShaderMapHash": "EE8B6CF2404B935B8C01EE3861C98B09BE654DD7",
+			"ShaderMapHash": "FAFD604F390A60E1F55677E0A70DC33871342160",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Misc/Env_ALL_Artifacts/Materials/M_Env_Health_Terminus.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Bats_Trans_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "6A86DE2B460EECAE9D057E6AEDC0D6F84B5CB9AF",
+			"ShaderMapHash": "AD1468C654E380220BD35AB6D727EA81D378718C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "712C9E53094354B18C18D0FCC69158DC5697572F",
+			"ShaderMapHash": "246F275E1D07767E5D4CB77AB24CE4C9A75A8D35",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky"
 			]
 		},
 		{
-			"ShaderMapHash": "28D80D595F6DF03D9523D59C2CFDA8D636BC1895",
+			"ShaderMapHash": "492273B6B4276011D228D62C7EBF604E98DD622A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_D"
 			]
 		},
 		{
-			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"ShaderMapHash": "214D4AD970A1930A7B52527E3EE65E2911BACFDF",
 			"Assets": [
-				"../../../Engine/Content/TemplateResources/M_Template_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Heal_Add_2Sided"
 			]
 		},
 		{
-			"ShaderMapHash": "987F96A9136B68F645B17E2E01EFDAE4FAD69D53",
+			"ShaderMapHash": "7ACAD4FF02894D1B3243F7156C389D37BC801D10",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "88B96F5F2D5B67FE2282E8F7CEF67551388AB770",
+			"ShaderMapHash": "B5D6F22B6165B9CD72A6B766AB6228507CADCADC",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Unlit"
 			]
 		},
 		{
-			"ShaderMapHash": "9D4E9859D0B75E10383185E1425E13FBFDAE5BC1",
+			"ShaderMapHash": "E9BACAA48798031934DDCD5926A8B1091DAF87BD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01"
 			]
 		},
 		{
-			"ShaderMapHash": "FCA36FC897E8704E7ED44EF98C7F82EAFEB4E2D4",
+			"ShaderMapHash": "960E6A19D3BD4A345CAC1994B3CCCE42C55E6235",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Opaque_Axes_Spin",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "0EF8D37E12ADAB10731C1D3950BFE592065DDAB9",
+			"ShaderMapHash": "50623DFCF55AE0FBC9EF8D14F14E8C1269E33C8E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/M_Streaks_Decal.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Skill_Vortex_Fire_01"
 			]
 		},
 		{
-			"ShaderMapHash": "5BFAF02CD7584AB033614972C4FE40CDE0253011",
+			"ShaderMapHash": "1F3954D2156CCEA7EB7B21A808DCD55DCA5524CE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Useable_Shader.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "455257A2F73CF63B112A89E8FA370F20FCD4296A",
+			"ShaderMapHash": "4E4B9DD61580C33935FF5029F73EB001F3185EEA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Ground_Tiles_Unwrap.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_MeshEmit_Lit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFire_MeshEmit_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "161F700E8CF3DDF3DF209736F589A27FCCE98005",
+			"ShaderMapHash": "48E71D4FC210F68983909D4E017C1D0983A44331",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Cloth_Substance_material.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSword_Add_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "5183AC86F883E2402BAC096562AA9C5328835C78",
+			"ShaderMapHash": "DAE9DEB87F88EE1E5B3ED6AA76ECC7EBC255704D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Lum_material.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_IB_SwipeTrail"
 			]
 		},
 		{
-			"ShaderMapHash": "FE9C3107D74F7776F02F6EF933187643819D7016",
+			"ShaderMapHash": "90E86DA7431F3E8E1A2259B65A5840BCCF37DAF6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Emissive_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BladeSwipe04"
 			]
 		},
 		{
-			"ShaderMapHash": "F306A24A8346389FC7050F06D6515A5C030201A7",
+			"ShaderMapHash": "D759F7D648CF2FB818408716757138C0138F5EE5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Simple_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastDir_Add_01_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "3078BB1107D92DD7AA491D197737158179F5324D",
+			"ShaderMapHash": "DE1617258327E14605DA28E184106AEFC527408A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Pattern01_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_VertexAnim_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "5E138B4B02F2A175B211DF9D5067879E17599C12",
+			"ShaderMapHash": "6D52B55193566A957ECD179B12EAAA1F203ABA32",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/ArchWindow_D_Mat.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flash_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "7B9215105B019AF6FE357E1BFA059AAA221A125C",
+			"ShaderMapHash": "FF35D73858C48795E3110FFF04BC901ED33BF2BF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/City_of_Brass_Enviroment/Materials/Material_instances/Cloth_Red_inst7.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Unlit"
 			]
 		},
 		{
-			"ShaderMapHash": "D0A5BD060D872B75828943511D69D48BF71E0001",
+			"ShaderMapHash": "D93C4C40D2075B1516CE16195A7E8EA7BDC8A1D1",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_02"
 			]
 		},
 		{
-			"ShaderMapHash": "BC284EE8C793349B8654BD175C1C54EBFB2E35E5",
+			"ShaderMapHash": "B1CD540D623A26CD2435264DDF5829A6A4228E1B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Rock.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "70368F7B49ECE232067D5BD15961AA3CC786F482",
+			"ShaderMapHash": "18BECC100E90FD93C506A364FA0B0B4C0E8AA8AF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01"
 			]
 		},
 		{
-			"ShaderMapHash": "F77242BBCAA16CAF0ABDEC597BEE76FD973EF259",
+			"ShaderMapHash": "6E3A9F688E25B2A742182E5E96018726F86F4FE8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Lit"
 			]
 		},
 		{
-			"ShaderMapHash": "6E599DC21F2566D0BD88F79500302F569700EB5A",
+			"ShaderMapHash": "8CA7C71E07D2A90E662C1B97655FA20BC95045D4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Door.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "BDE733D4C48705524848E0FC78DA95D2A7F58691",
+			"ShaderMapHash": "67F381D78200143C2DF3AD87F673550B7CD6DFC7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Props/Materials/M_Bush.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C896AACBBDA69174F0D49DC8A600CB4F90C5A5EC",
+			"ShaderMapHash": "BC4185EF80114D7099F088B9516F7705E780811F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Ice_Trans_UT"
 			]
 		},
 		{
-			"ShaderMapHash": "FB5E11B28283545CCAFA183A2E746550620D50FF",
+			"ShaderMapHash": "26471F7A2110B181B6F3CFB6BFA92737027A243F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_2Sided"
 			]
 		},
 		{
-			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
+			"ShaderMapHash": "14307349B295E41E58FA9414AE8432705DD5A16B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ShieldMesh_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "4A42DA03527D109E11B8E04DAD39C97A3AE32EEC",
+			"ShaderMapHash": "B471C0D3BBFAB57C3AD64071C5746229DC8CABF4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Arc_Add_subUV"
 			]
 		},
 		{
-			"ShaderMapHash": "AC683FEB627B7418FB83CA10E982947375436864",
+			"ShaderMapHash": "D77BF793304186515327095CDF98417BD998D0B9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow"
 			]
 		},
 		{
-			"ShaderMapHash": "26A71C5B956E91E9B93D540F8A0D70F9C90666B9",
+			"ShaderMapHash": "7DD01E3A6CF97D25684E5489FC090BFB2730DDE0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Fire/Env_Fire_Magma/Materials/M_Lava_flows_trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane02"
 			]
 		},
 		{
-			"ShaderMapHash": "9184BA15F662A9010B1AB97A3E1FE4FE3EF3E3D1",
+			"ShaderMapHash": "22392116A4098CA6F14618E224AA1D338253062C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Env_Rocks/Materials/M_JaggedRock_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_FogPlane01"
 			]
 		},
 		{
-			"ShaderMapHash": "F1E81F7C9EACC608902B8865BC981CA0A6E0E9C0",
+			"ShaderMapHash": "A794047790DD49E0EBAF90B614FDA3BE3E4DAC0B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed_Trim.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeTile_Trail_01"
 			]
 		},
 		{
-			"ShaderMapHash": "02A1DF68CA02E46010995276C17BB1ABA874C965",
+			"ShaderMapHash": "4DE8C39D4F7A5DF06FD75137E4584EDE2C7345B2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_DetailMask_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "66FDA91A61195B9BFC01BF9B58A0205EC37E75A8",
+			"ShaderMapHash": "AA343CBD3CF801C1E8C2E19AC1808EE99A2481A9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_EnemyChicken.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST"
 			]
 		},
 		{
-			"ShaderMapHash": "8A6E249DC18AC6F66329EECC0CB123BE878ECB5E",
+			"ShaderMapHash": "7107624C7DD40ADF0449F032049418E12B554929",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_Survival_CA_Chicken_02.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lava_Flowing"
 			]
 		},
 		{
-			"ShaderMapHash": "7EB9733C5EB5A9C73137EB40402D4852C400B6CE",
+			"ShaderMapHash": "D85D808D195E609362B5E28FD422FB6C41231350",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "0C5F52FD0310CA667B67D3C1AD43BCB6F0E68D45",
+			"ShaderMapHash": "385D9920DAD0C865AFCC9B7463F309C2EFE93E75",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH"
 			]
 		},
 		{
-			"ShaderMapHash": "5B25B1A2923E6CADD40E0B9F4DE7CC5FB58E825F",
+			"ShaderMapHash": "774FEC260958F2AFD9016F4A978CC4519D17FE4B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Trail_MeshEmit_2Sided_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "BB5D537EBB8D341EE6847FAC8911298994504EA5",
+			"ShaderMapHash": "DE393DCF67EB78B99094FB8F09C04BB6AAB557CE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_StaticMesh_Lit_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sword_Opaque_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "D570492075404F7077A7D1DD429A3527E808818D",
+			"ShaderMapHash": "C4CB7D0BB2748A026FB25B0737E4022F7BD6AAD9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_Surface.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "B427BBCDD2C73D227972CD6653279342E39BFF4F",
+			"ShaderMapHash": "8DBCDC62C1665460D8CCD4F5DD4FFFAF1B8AA9AE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_2Sided_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Opaque_Hammer_Spin"
 			]
 		},
 		{
-			"ShaderMapHash": "5F5689F26AFA54A3C85CCF7F191D0E8739589E67",
+			"ShaderMapHash": "9FE47BA0B1380E7F98DEA6E01AA9A93667B2DA32",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_EdgeFade"
 			]
 		},
 		{
-			"ShaderMapHash": "EF88F98624AC8822B81F2D6F6ABE7985BB2819CB",
+			"ShaderMapHash": "22718E63E6EA3901612B2E8A8D993F380C84A19F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Opaque_Static_Lit_Emis_PanMaster.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Fast_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "0DAEADABDAD03D4044083F3903DA21A277BF787A",
+			"ShaderMapHash": "A5BF0C75A1D5458BF287C04F0E9ADEBB01169CD4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master_DepthFade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "0A629C01DE6A3AEEC83A1B5F01E78B68E726D908",
+			"ShaderMapHash": "2297B0ADDA08CB124048C28A04DBD499B52B7747",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Pan_Emis_Mask_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBeam_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "B32DF2C368658081B5AE91DF5A0BF0AC4F4A5F41",
+			"ShaderMapHash": "5EC2F366BB43DA41DA95DAAB96FB1BFC6F08BFBB",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "69E85756E1F8FC4D0A4805C08FDEF790881F31A8",
+			"ShaderMapHash": "7B26839D03B9DDCB1062D754CC90D95F5FD422DD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Base_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SpikeTrap_Fire"
 			]
 		},
 		{
-			"ShaderMapHash": "427688E1B402D1A48C48D6475AB7D7ECD0229052",
+			"ShaderMapHash": "FB92E8926C226E9B47F38D57B7C159937B912434",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Env/M_Treasure_Gold_Add_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Enemy_GreaterSpiderBoss_FX_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C6F2C44BD467C04C95596A20E0970382A94A7AA9",
+			"ShaderMapHash": "8F208F585CD2B91CC250DF3DFCB042DBB58F1AF4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealSpiral_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "C91BD2ACEAFF111E10788CD5AD41E6BE4B317A41",
+			"ShaderMapHash": "A0E07188CAA49973B09E2395F8B98156899CA09D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Opaque_Hammer_Spin.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_fountain_01"
 			]
 		},
 		{
-			"ShaderMapHash": "9BA57A24400C22938673D6EAD5AF69F95A7445B7",
+			"ShaderMapHash": "EB25D926FF89284E5FBBEE8C1FD6614C01EF01CF",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "D75EAB91F4A212BE92E1B93DBD01138A0CADC30F",
+			"ShaderMapHash": "76763934EEB578D69831DC875525EBC98ED63DCA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Telecharge_char_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_TraceTrail_Fire"
 			]
 		},
 		{
-			"ShaderMapHash": "1C6F7FDD86AC4660EB852BCB76BC50C721A4522B",
+			"ShaderMapHash": "9E5A170457475E5D4AECF9288E7A03968CC62920",
 			"Assets": [
-				"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares_Grid"
 			]
 		},
 		{
-			"ShaderMapHash": "D55C51E7F03D3BA35115D5227ABFD191389F990A",
+			"ShaderMapHash": "9D57946A73E2FCAEAC1337C510881E93DE4650E3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_Master_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glowing_Eyes"
 			]
 		},
 		{
-			"ShaderMapHash": "27F5CDA904EC51EA7DFB932DF832966B63849474",
+			"ShaderMapHash": "2C7A66A563DEB796C179B60EDF3DF576614B33AA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "128141E3AEAB1DAD5F9D83BD6CA1581184C20CA6",
+			"ShaderMapHash": "66790315CE65796A704471AE01C1224A810C9BD8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_AuraCircle_02_INST.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spider_Anim"
 			]
 		},
 		{
-			"ShaderMapHash": "73CB4B4582B710096C152B1083AA6FCA1EE5DC5B",
+			"ShaderMapHash": "2B0885CC13EC04D76F7A1357F375B3F65729DCC2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Lightning_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Snow"
 			]
 		},
 		{
-			"ShaderMapHash": "564469A553B9B63C57DC104A8B29300065A490EE",
+			"ShaderMapHash": "C43A56F5C43E55DF5FB904AB3926B776367DC428",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ChargeMesh_mobile1.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_2side_subUV"
 			]
 		},
 		{
-			"ShaderMapHash": "C358E4DD4BC5EC46B193AC1CA36633F379C0753A",
+			"ShaderMapHash": "60008BFDBA384E67DBA13254D5820F190FC3A81C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SparkCore_Add_01_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_Add_01_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spark_2_2_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Shield_Rim_Add.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceHammerGlow.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Outer_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glyph_Add_Inner_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlashHalf_Add_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_03.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_02.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_RadialRings_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_04_Inst.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_02_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleFlame.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "E7A9A39EF618ECF180BF6FB6D8EB10F327D47028",
+			"ShaderMapHash": "C42E17B162FC11C35E4CBD8402EE4B04357880FA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Splat_03_INST.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IB_Blood_Trans_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeFail_X.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_Emissive_02.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_03.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_02.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Trans_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_03_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_02_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Blood_Mod_01_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "E9C72624F6B14E20EE7B20C92A62E43C1E81D3DA",
+			"ShaderMapHash": "D1F9C34CA91E811E3A4094F3562B743B6E30A488",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_DeathPlane_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_2Sided"
 			]
 		},
 		{
-			"ShaderMapHash": "65F64B6FCFE0870F3DA69777966284AE6F0E84A7",
+			"ShaderMapHash": "85612D35D72362B6CF1C203BF0C611341E567EE3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/M_GoldBag"
 			]
 		},
 		{
-			"ShaderMapHash": "FA32B6AC8DF2040798B30606786E95F247AAD59C",
+			"ShaderMapHash": "1926C1FC826FAEFD52A6C3E9F823E4E3D83E42F7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_IB_SwipeTrail.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning_Master",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning"
 			]
 		},
 		{
-			"ShaderMapHash": "9883DC8DEC070E1FB626FB82874DBB3ABEF6C6B6",
+			"ShaderMapHash": "B2EC50D6F962B449884252EA927B56AAEC425166",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Noise_Beam_01_INST.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Resurrection_Phoenix_INST.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Pan"
 			]
 		},
 		{
-			"ShaderMapHash": "578CB01493EE96BC478C85ACADC178975D49C65D",
+			"ShaderMapHash": "D73CE03CE6404F0579A1D8089751E4FDD450E151",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_02_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "D08C3D940FDCBE6087F8D828A051EAF99F631DF1",
+			"ShaderMapHash": "C19F0A9E2DA4356DC23ED57B8B3757B9526944B5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flash_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Ribbon_Pan_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "20FA93A863AA034CBA09ECEB4826E837EF180072",
+			"ShaderMapHash": "A5F55A3738F2E5BFA164524A308E8C73C508E11E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit_01"
 			]
 		},
 		{
-			"ShaderMapHash": "FBE89B92586EADC7C1C8B52341AC21E657A814C3",
+			"ShaderMapHash": "1216ECBC49C018E70DAAD419D9C3C65D323FD01E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Ausar_ShieldBlast_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV"
 			]
 		},
 		{
-			"ShaderMapHash": "92528E8BF99E86D5ECFB201D12F73CE7EB367281",
+			"ShaderMapHash": "13F3F6E92CE1CF1211FC7BE2BC7A6E181B2891C3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_01"
 			]
 		},
 		{
-			"ShaderMapHash": "57B6073E5633256FC2A1C09ADC510D90A57B7685",
+			"ShaderMapHash": "72FBC506BFC8FA08EE06A6CBC556DB8C1CFC543C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_2Side_01"
 			]
 		},
 		{
-			"ShaderMapHash": "DD6DA3352D04041FB15281CE7D7A2427446F59E6",
+			"ShaderMapHash": "D23E97D6A23A2BCF1F365E4CBDAC590F3AC77CE4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_D.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlobShadow_01",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FogSheet_Trans",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_Bucket_Cin04"
 			]
 		},
 		{
-			"ShaderMapHash": "8EC48719B82F6613B6628A922F9AADCB15F8CC83",
+			"ShaderMapHash": "46062F299C3ED89710A497692C8E3205FCBDED49",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Unlit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_RoboChains_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSword"
 			]
 		},
 		{
-			"ShaderMapHash": "8DA2E8E15EC0CE97CA630339D784A216A0F37FE9",
+			"ShaderMapHash": "DE9AC0B1FBF30D9A87D2EE746D77006F34105B5D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Shard_Tiled_Mesh_Unlit_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad"
 			]
 		},
 		{
-			"ShaderMapHash": "2581963C33FA0B8D8B5B8FBE8D9D7444B1405B0D",
+			"ShaderMapHash": "3A2FD94FA2BE2C2C31D6FD973D44DFF22A58DE84",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_MeshEmit_Lit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFire_MeshEmit_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "D1AC3EBA258C2D78218213AB177B5CF239F9D6A7",
+			"ShaderMapHash": "8E33CB0553B2B9C3A290A501ECE236993D8E5A5C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceSkills_Base_Lit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeafFlip_Masked"
 			]
 		},
 		{
-			"ShaderMapHash": "5F7913E1362084055DA92CF1B0CFAFB12389BA0C",
+			"ShaderMapHash": "62941825C83852107382B58CC5A3A321B56DB771",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_03.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "6CA1C789618BBEBECBA7A9303DA5A31360F18E5D",
+			"ShaderMapHash": "89FD04F744705D5381E90D115DFFADAC41993A9F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "0243913A40B0F4811FDE5765695737B2F06767A5",
+			"ShaderMapHash": "5346AD934C96DD1901F7FB5C2A91CE68FECD5C2B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2Sided_meshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "E91DEF162C5A9F287A76FD3767CA031B3471BE61",
+			"ShaderMapHash": "79C72E704A534E29012D1745D401503D4B5F121B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ExploD_Trans_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_cracks_01_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundPoison_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundIce_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Plate_Floor_2_Ice"
 			]
 		},
 		{
-			"ShaderMapHash": "9BDDBFA9F00458383FFF91EE9151CB506A0EE8A3",
+			"ShaderMapHash": "86CBDC4AF5BAFADC36DD6DD90B416A998DA81820",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSword_Add_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "08C2E7D125129365F4A111A9E2C89D7EFA20649C",
+			"ShaderMapHash": "A29332DDED298658E68B5ADDE9859561B30A6AF6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SpikeTrap_Fire.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire"
 			]
 		},
 		{
-			"ShaderMapHash": "21F1DCFBFAD8CBCFD6A789F98A11BC37A71DAC43",
+			"ShaderMapHash": "2FB7A54C36225986FF1E76DAB459033DC44A4B4C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Enemy/M_Enemy_GreaterSpiderBoss_FX_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate"
 			]
 		},
 		{
-			"ShaderMapHash": "F932562EB4AC81D0223B1C91B0CA9AD0C5CE3509",
+			"ShaderMapHash": "1B0663A918A8A3FC97B8C68E72098D8559E3EDEE",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Mesh03"
 			]
 		},
 		{
-			"ShaderMapHash": "EC4389F89315C40411052E5FA35152D2CCE05F1D",
+			"ShaderMapHash": "3E75DB41D5F362C9D07E7349840BC56F6F596DF2",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C2B5E0F0C01B8C632F7E34F718A6A21003CABE14",
+			"ShaderMapHash": "F5B8F349D3FCF69909B811AC849C5C94AE419411",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_fountain_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_Blue",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "671C227695C9AF351B02E056156CB0274EB4ABB1",
+			"ShaderMapHash": "E2C88DDBADC8327B961F10A94CECF4F354D49E31",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Fire_03.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Top"
 			]
 		},
 		{
-			"ShaderMapHash": "7BD8B715F0877003BB642A94671D3F310DA5CF46",
+			"ShaderMapHash": "C65A7048FD108A5F04C9BAC26269880685A8B0A1",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GroundCrack_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "A95E79FA9BF628FA9E205CE13B3C2FB3DB80B984",
+			"ShaderMapHash": "0D660243D60259A990B0CF3804429A08EE4C611D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_YinYang_Circle.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "7D913D4E7C7F0DCBF497E6617134C442C77C12F1",
+			"ShaderMapHash": "81AD6FE35F8562121648A1AC4A0DD104894CBF37",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_TraceTrail_Fire.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/Gradient/M_Add_Unlit_TerminGlow"
 			]
 		},
 		{
-			"ShaderMapHash": "970129B1F3CE3A8F53145CDC2A9F75E638B9605C",
+			"ShaderMapHash": "A6C628743A4C516CB3939F6BFB525D66C08F3824",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Ice_Trans_UT.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky_moving"
 			]
 		},
 		{
-			"ShaderMapHash": "AF18BD0F544B307F7F0B650F84FEEBD716B0AC38",
+			"ShaderMapHash": "32060F1846566FDF6B8A30A4ABDFE70E7245D9B3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Orng_mobile",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Green_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "5AD0760579E85604935915CE7638E57B3E8BC12C",
+			"ShaderMapHash": "E91780A4C7982E8C3ABE4ACC54F9DDF5E3A68B1E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans_02.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire"
 			]
 		},
 		{
-			"ShaderMapHash": "7DBB6D451E6C0DFF856FCF75370782E3ADD776A4",
+			"ShaderMapHash": "35DF0EF9EAF64D1DDE1715FF3476B689BF6F7437",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Blue_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "0AE2E0CE2B04F2D4EAED38ECFAECCDF541E3A8C9",
+			"ShaderMapHash": "3E578E072005DF4F6B60335FE9B549DE5B7736FD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tornado_Fire_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlowingLava_HOT_red_Cool"
 			]
 		},
 		{
-			"ShaderMapHash": "F7B20326737F0BF7A54165A8112EC6E25160AC02",
+			"ShaderMapHash": "55FC3F7C0BD990D86CA0DE2AA9509D7F9D9A7FA4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sword_Opaque_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "2FA2744B4C9D94C816CBE3E19EF3AB40BDECB398",
+			"ShaderMapHash": "C8CAC0C340AAD04F30EA6CD10E7E9D210E005AC3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_EdgeFade.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "F1467EE7E363D05B2CE258AE27613A872FFFD7C4",
+			"ShaderMapHash": "6B3332F2B387E86666339D00C66C484DFA251C71",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Trail_MeshEmit_2Sided_Master.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "5C65A07DC1D5D4909D3F6985A494B295CF6C98CB",
+			"ShaderMapHash": "37ADF17A0861628C5859B21FEEE97303CDAA73C6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SwipeTrail_Add_2Sided_Emissive_MESH.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_Pan_mobile"
 			]
 		},
 		{
-			"ShaderMapHash": "0389CAD32BB562A2A67F1858DDEAB4BCE6DD4674",
+			"ShaderMapHash": "F28BCCFF78DE794AEF0866E91A11F3A6169F63E1",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Spider_Anim.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireWall_Add"
 			]
 		},
 		{
-			"ShaderMapHash": "A08E93F1F6B062B72893485A0B67259EB131F8BC",
+			"ShaderMapHash": "34D836834136470A1B74A87DF4E39B29CE84D746",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3_MeshEmit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SnowSubUV_2_3.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_4_8_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_subUV_3_4_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Trans_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Gradient_Pan.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Trans_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Trans_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke2_Trans_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRock_Trans_MeshEmit_Lit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceSkills_Base.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_Radial_01_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall"
 			]
 		},
 		{
-			"ShaderMapHash": "86F7EE018D9B2628C29B02FBC792266BA0B5EC42",
+			"ShaderMapHash": "8D2626CEC96E34898E300EE37A3DE4C41471B513",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Snow.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat"
 			]
 		},
 		{
-			"ShaderMapHash": "FA7245EB199B8B7D9A9F9104718BE1452FD94B61",
+			"ShaderMapHash": "2EE9D450A515719B87A74BEAA171AF9F98AD482F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_subUV_mult.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Add_2_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke_Addit_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeSingle_Add.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Smoke3_Add_subUV_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Impact_SubUV.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowVert_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_FlickerGlow_Forge"
 			]
 		},
 		{
-			"ShaderMapHash": "221B230D449295634580FF69D6FD1D9B89916F6C",
+			"ShaderMapHash": "5479FB0A0F08B0E4502541C5ACE9257AD65CD81C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeWispy_Pan.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Base_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "00A203E1DF6301967198753281E5D10966228D17",
+			"ShaderMapHash": "490D581D2973F1003592C76F8356D60EB87B2BA6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SmokeTile_Trail_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow"
 			]
 		},
 		{
-			"ShaderMapHash": "DD3E6ACC62117F13B91C9B9A7DAB22FD5866391A",
+			"ShaderMapHash": "FC4A32FBF57D8B9B9FE28F60596547A4E3BEE981",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_SlashDir_Add_01_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GlowNoise_01_2sided.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeLogo.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_03_2sided.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Flare_Add_01_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow_2sided"
 			]
 		},
 		{
-			"ShaderMapHash": "D35419B4BC375F2C637DBEF5806E8F37A01273EA",
+			"ShaderMapHash": "1BE3C490A236E1192B8A565DF8E297922665EA68",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning_Master.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Sky_Flashing_Panning.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle_add"
 			]
 		},
 		{
-			"ShaderMapHash": "D021B5D6F0F98861EC38E6A1A98606219A0D9D94",
+			"ShaderMapHash": "59D48B3FA917DB83E214D8C6F9A6264AE6C7C21F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Skill_Vortex_Fire_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_Embers"
 			]
 		},
 		{
-			"ShaderMapHash": "8C994F72FBC8A2074B667F13F8C21F3531C9308F",
+			"ShaderMapHash": "395D3AE0A6CA9772B1853FD8A6F1FDA259D39149",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ShieldMesh_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX/M_BloomPlane"
 			]
 		},
 		{
-			"ShaderMapHash": "9E2669E360FBB68078838FC2C51C29444E13223D",
+			"ShaderMapHash": "377138F9E4718A8F0E5381782AF1FBA823AE75A8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ReflectArrow_Grad.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Impact_IB_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "77F4E0F80041BD11A44DAD840E77E8C9B5AFF2F8",
+			"ShaderMapHash": "41F59C76B94EBB3A75FC15FF4B5F6A2B802808C9",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_2Side_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "617BF05E98EA23BB25E2940522BB68DA7755DA8F",
+			"ShaderMapHash": "1E219AF5DB7A90B9646C4122BE404F644224869B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Projectile_01.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Mesh_2Sided_Pan_Emis_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C8A80A67F2BBF0054E3D54A63EAC679198FB874F",
+			"ShaderMapHash": "BE08FFEBFA3BEE55E8E5F53F42A6EA4BB9CD247B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Pan_Emis_Mask_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "0F6DA9086ED3560E14B3785A8568B8CA9A5FC262",
+			"ShaderMapHash": "BEF91A82571A013830237E73CB01AEF959057496",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Portal_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface2",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Emis_Master_Surface"
 			]
 		},
 		{
-			"ShaderMapHash": "51DAF98456687FAC92D91853EA7E20F778F73364",
+			"ShaderMapHash": "92FF9E6619396EB1671C34DB4A108B2ECADA0205",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Plate_Floor_2_Ice.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master_DepthFade"
 			]
 		},
 		{
-			"ShaderMapHash": "2D4F312E19CE31DBDAC5EC875537CA1D7E7E5A49",
+			"ShaderMapHash": "C34F0D50E423479CB33A6F8228A866CF1BA37B3B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LightSconces_Glow.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_2Sided_Pan_Mask_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C600686D441380CA20B0CE9811B428E28DC3B33B",
+			"ShaderMapHash": "CB090926E80B6169B0B0E8BFFDC239AAF1C6C511",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lightning_Arc_Add_subUV.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_Static_Lit_Emis_PanMaster"
 			]
 		},
 		{
-			"ShaderMapHash": "E43CAF24901CF95FC0A263762C68D7B4C25F71D0",
+			"ShaderMapHash": "0434290B099412CF4ED534EF7CE39FEB0D53C794",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeafFlip_Masked.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_MeshEmit_Master",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "1BFB6D28E96F7C0A44E3B25A54893E4653CC60E1",
+			"ShaderMapHash": "CE89B00B2BE25F4D7B92CA2BDF61D57B47871CB4",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Lava_Flowing.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_2Sided_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "5C35E457707F871104F79D92F4CE885950FDF6FE",
+			"ShaderMapHash": "5943C04F8F6221F9B40C334D0353B4EBF6F73752",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_Surface"
 			]
 		},
 		{
-			"ShaderMapHash": "93767B6924100079DD2BE7B6651AA7DC9CCF1B46",
+			"ShaderMapHash": "250C44623F5667BA91760C258A908D1BA0E816D7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "E39A6212CB6CC890BFC2BF6E1AFB4FED8C9C768C",
+			"ShaderMapHash": "CC9C9AB58769F71D087DF011B1D1742C5FDE9508",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LavaFlows_Fast_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_StaticMesh_Lit_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "FD8128C12EAEAEDA3FAF612CD97A91297AAB4905",
+			"ShaderMapHash": "71B084CA639E2730150DB855B0DF7F30C4D895D5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_JaggedRockFireBase_MeshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit",
+				"/Game/InfinityBladeEffects/Effects/OLD/Effects/FX_Materials/ICE/M_IceMountain_Boulder_MeshEmit"
 			]
 		},
 		{
-			"ShaderMapHash": "9D0675E368F2C5F08A4239EE34B5173DDF120554",
+			"ShaderMapHash": "890B5445D6EC42E379F171E40BD119DE01D45DD3",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Mesh03.uasset"
+				"/Game/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_Survival_CA_Chicken_02"
 			]
 		},
 		{
-			"ShaderMapHash": "0323571A9AA72A28F3FD2FB62DBC0D8D21C28131",
+			"ShaderMapHash": "40D7742B7D9165CC3517EF94C5DEC5D7479F7327",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Top.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side.uasset"
+				"/Game/InfinityBladeEffects/Enemy/Enemy_Chicken/Materials/M_EnemyChicken"
 			]
 		},
 		{
-			"ShaderMapHash": "45A050453DDAA9E87E96F1E8ECFBE110E5BB4BF1",
+			"ShaderMapHash": "DD2B9550129B728CA18973E8D205A454B0F7E951",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Ice_Attack_Side_Add.uasset"
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red"
 			]
 		},
 		{
-			"ShaderMapHash": "B2EDB6C33074EA9FE3FA2F8218AD8AAD8D6B5717",
+			"ShaderMapHash": "9664E29215FF543B533317724B07A39774741585",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceTrap_Shard.uasset"
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed",
+				"/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed_Trim"
 			]
 		},
 		{
-			"ShaderMapHash": "ED6CD002488314D350049064C1D7955A2E2F89D3",
+			"ShaderMapHash": "903284CD7473A1DA8E7901C9FDC234E3184C6571",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HeartHeal_02_Trans.uasset"
+				"/Game/InfinityBladeEffects/Environments/Env_Rocks/Materials/M_JaggedRock_01"
 			]
 		},
 		{
-			"ShaderMapHash": "C9A408DCB868A9DAFDB1F0989AB6034E8FB23C6F",
+			"ShaderMapHash": "F5593BEA0F076582EB361B98A7754C201DFC369F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Heal_Add_2Sided.uasset"
+				"/Game/InfinityBladeEffects/Environments/Fire/Env_Fire_Magma/Materials/M_Lava_flows_trans"
 			]
 		},
 		{
-			"ShaderMapHash": "7D443A8D54F234CB3A9ED388D834513E088674CE",
+			"ShaderMapHash": "3F9E647CE6730EBE5A64AE67A202FE5A48F1478F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealSpiral_Add.uasset"
+				"/Game/InfinityBladeEffects/Environments/Ice/Env_Ice_Mountain/Materials/M_IceMountain_Boulder"
 			]
 		},
 		{
-			"ShaderMapHash": "5024E4F911E4987A36F32D2F6C859982419D8724",
+			"ShaderMapHash": "6464A1B937510B008A5542E7EB7A415C0ABD1B36",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GroundCrack_SubUV.uasset"
+				"/Game/InfinityBladeEffects/Environments/Plains/Env_Plains_Ruins/Materials/M_PLains_FloorStone"
 			]
 		},
 		{
-			"ShaderMapHash": "E7C0772DFF13D48C05B19D96CE763637AFF7DF47",
+			"ShaderMapHash": "766D8451DDEF6BCE1AFD4DA939277400AEDD1698",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Glowing_Eyes.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/ArchWindow_D_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "552D20CDAD89B2C921D5C3585A677463ECC48E15",
+			"ShaderMapHash": "6A006C622CBA2F997D4726BBB34302DAD06CD8D6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_ForgeCoals_Fire.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Useable_Shader"
 			]
 		},
 		{
-			"ShaderMapHash": "7C840EDD08966E260741F317A8D19833B038C3C3",
+			"ShaderMapHash": "000104A315C22083C370FB9F948B27B0683EA75F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Orng_mobile.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Green_mobile.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Cloth_Substance_material"
 			]
 		},
 		{
-			"ShaderMapHash": "64F8C227C1BB5992071493DDC9F02D012D3636E0",
+			"ShaderMapHash": "349C00AC85913928E807BA6DB587240DC32CBDAC",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fog_Blue_mobile.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Ground_Tiles_Unwrap"
 			]
 		},
 		{
-			"ShaderMapHash": "70A73C0923A98187D406A58C8E3F1013BE4D1950",
+			"ShaderMapHash": "AE5CA57A26101648F11E4A3F12C0BEEDE2F294D5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FogSheet_Trans.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlobShadow_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Water_Bucket_Cin04.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/M_Streaks_Decal"
 			]
 		},
 		{
-			"ShaderMapHash": "BA261D839E3321C10CAA8FC12D9C2249780B9247",
+			"ShaderMapHash": "B01D8333C3F17E7E80BFFC9508FB2334CC610907",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FlowingLava_HOT_red_Cool.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Streaks01_D_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "DE78C2AB8D98C7B04C1C5462D10F0DE45F2138C7",
+			"ShaderMapHash": "A188ADDE94D37A4D9C0D46AA55AD0FA055D61E0B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Fire/M_FlickerGlow_Forge.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Pattern01_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "78F6C5854BC0EF6ECCFF4B2BA66BBA50E531B1D5",
+			"ShaderMapHash": "E089BCF6EDBA80D9DCFF4431DE56F275B2684044",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_Pan_mobile.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Lum_material"
 			]
 		},
 		{
-			"ShaderMapHash": "F0168560E83032F9725AE4A0F2F752F16C993D4E",
+			"ShaderMapHash": "92256148F542B735135084D81E0E7096158163A5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_Master.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Emissive_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "D3FD3BDC8DF8A375E236179371D98E64A9C6D53F",
+			"ShaderMapHash": "C1141BBE739C748CF92290156B83D3647E771F29",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided_MeshEmit.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Simple_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "F17BF7B3E96210191EBFD9C61E42AE4BFF1C6C6F",
+			"ShaderMapHash": "7C6218D7CA4E07287DD078AEC66FE6D758C5D25D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_Tile_2sided.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "5AB0E59A60267557A35B2FE8FF65B78E0DD3031C",
+			"ShaderMapHash": "34E1D53151A03ADE82ADD8FAAD681CB7EAF58F3A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit_01.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Dungeon_Pipe_FlowingLava_Cool"
 			]
 		},
 		{
-			"ShaderMapHash": "133FD14CF991473F34C8099D0E4E12A809D0ACFF",
+			"ShaderMapHash": "B3F8E098150BA8E562AA228CD54C655ABC029B28",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_meshEmit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_TilePan_2sided_Blue.uasset"
+				"/Game/InfinityBladeEffects/Environments/Misc/Env_ALL_Artifacts/Materials/M_Env_Health_Terminus"
 			]
 		},
 		{
-			"ShaderMapHash": "AEEE07F630D82F9CA9319031B8ABB57E109AA3E8",
+			"ShaderMapHash": "271BABC5BE459B270E5CD608384CE00101270D19",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_subUV.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER"
 			]
 		},
 		{
-			"ShaderMapHash": "A34BDF8FD67D910D4799B36A7BC4F2A218F602C1",
+			"ShaderMapHash": "70D3D83C1E3366B984B7C80804436AD5CB102ACD",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Trans_DetailMask_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Targeting_Enemy"
 			]
 		},
 		{
-			"ShaderMapHash": "7F02D2FC60C688CF91EC6C45DF8D7044FDB4CB79",
+			"ShaderMapHash": "8863CD0E49342FB2E7AC2F98CA9EF01F86E0ACB8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Ribbon_Pan_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_GhostSkull",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_2Sided_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "3C13D924C1622CBAEE1B3D6869F36B8960AF671C",
+			"ShaderMapHash": "89A8DDD365F96011DDF76529B7DD28389C6C354C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2Sided_meshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Opaque"
 			]
 		},
 		{
-			"ShaderMapHash": "D83C9EA154AC7107841489D4305CF2B6721975A6",
+			"ShaderMapHash": "AE62131FA54FC57BA75697D0E9DCC2C63AE41E76",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_Grey_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle"
 			]
 		},
 		{
-			"ShaderMapHash": "51F035C7F8D5A1A52696ED4C003314BF253103B2",
+			"ShaderMapHash": "C07D3A838CC54DFCDDE7D68EE373E8AE1F701878",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_Tile_2Sided.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_DetailMask_meshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastIcicles"
 			]
 		},
 		{
-			"ShaderMapHash": "CB85033434C54AC7F9213937F443178416992E67",
+			"ShaderMapHash": "1F6C1A683A0DB383392B00EEF5BBA103FAEFF43D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Fire_Add_2side_subUV.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Debris_Boxes_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "D77A577A29D84FABC525DEA95E3834044C59A64F",
+			"ShaderMapHash": "240E970062C2A56C4538FF6B5CA2025CE9E1D216",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireWall_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_JaggedRockFire_MeshEmit_Lit"
 			]
 		},
 		{
-			"ShaderMapHash": "8D51FC2C19183B04DFB58CDD154D7A50C16CC61B",
+			"ShaderMapHash": "07DBE18CDB917766AFEED9879BDD141A8704F3D8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky_moving.uasset"
+				"/Game/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass"
 			]
 		},
 		{
-			"ShaderMapHash": "287B7FABFA841A77B5C0BD5E39B6B314FCBC48B0",
+			"ShaderMapHash": "AE0E9ABD470FE0A11C3CD7A713126EAF854293D0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireSky.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky_Moving.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlueSky.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Base_Emis_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "97CADCB009A1A1075CC508C847C9AB154AA91949",
+			"ShaderMapHash": "AFCECE7AB1F358CA72E214627AEB67F5E929CC9E",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_VertexAnim_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Opaque_MeshEmit_Lit_Emis_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "CE61B15801920D87147F5C0DCAEA63939209B25F",
+			"ShaderMapHash": "9DC89F1A90CD24354833FDC2CBAA1F75CEE3A9F5",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall_MeshEmit.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_FireBall.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Emis_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "C70DCDC98607237D08A5BAE612309DA844DA229C",
+			"ShaderMapHash": "71C7CAB2BDA87363524DF17D2ABEF982B022D031",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add_2sided_meshEmit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_JaggedRockIce_MeshEmit_Blue"
 			]
 		},
 		{
-			"ShaderMapHash": "A00BDC676BA9F22C57E0E49D238D49F606EE38EF",
+			"ShaderMapHash": "8611F96DA58F6A502A310980417A919A17EE85F6",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBlast_Add.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_IceBlastFog"
 			]
 		},
 		{
-			"ShaderMapHash": "B966EE461E52900AD1937394EEAB31582F7A85CA",
+			"ShaderMapHash": "2678E2E099F3436D58779A032FC7CD69E8056873",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_FireBeam_Trans.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface"
 			]
 		},
 		{
-			"ShaderMapHash": "0B8C6DA02C44EA86840603E7A658CA4DB5D16251",
+			"ShaderMapHash": "E255F265B12427FEB9395AFA66703B178481D79D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Unlit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastBase",
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Lit_SubUV_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "0E068A2AFC6507B9A4E20294A94977768B8CF0EE",
+			"ShaderMapHash": "285A9E806DE243E884F979F423A35C598FB516A0",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGround_Fire_Lit.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceBlastIcicles_Fade"
 			]
 		},
 		{
-			"ShaderMapHash": "B353F9478E80A8ADA71C81C5925482CE94CEA758",
+			"ShaderMapHash": "3233BDD279B97FBB915BE9DDB889B1C2EDB8782D",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CrackedGroundFire.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LevelRing_00"
 			]
 		},
 		{
-			"ShaderMapHash": "768F55C61663C7CC83FCD41B6157668E14450134",
+			"ShaderMapHash": "D0B11EF6B011AA0DB5981633C1230059F716551C",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow_2sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceShard"
 			]
 		},
 		{
-			"ShaderMapHash": "BF1B269C40BB9E684B54E19AC3C78666E3C69E1B",
+			"ShaderMapHash": "DF8F648C37A19984B18AB1DF5738E6245AAD7F4F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_CandleGlow.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master"
 			]
 		},
 		{
-			"ShaderMapHash": "341D9FFD05B727E2CD2D14523BC7B244C58ED3CA",
+			"ShaderMapHash": "1647E24BAA7E367B61E60EBB2E40B7E9A725741F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastWave_MeshEmit_2Sided.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_DepthFade"
 			]
 		},
 		{
-			"ShaderMapHash": "C6B358C2ACA7600062066685A94F9B00C243F64E",
+			"ShaderMapHash": "57B1F51B2D73B10E13B0FB8C95CC7C209C204956",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BlastDir_Add_01_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_SubUV_Master_DepthFade"
 			]
 		},
 		{
-			"ShaderMapHash": "3C77F309682803E1AC72258BCA955507DC38448A",
+			"ShaderMapHash": "A099BBC53711B09B4CAE91F446E352B233BF2F97",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_BladeSwipe04.uasset"
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_Trans_TilePan_2sided_meshEmit_02"
 			]
 		},
 		{
-			"ShaderMapHash": "E93E796179CCFCF4AE6D9F8973A28E5C8BDA67D3",
+			"ShaderMapHash": "88D46AA366FD9E57ECFF628B68DBDB615B45AABA",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Bats_Trans_mobile.uasset"
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade"
 			]
 		},
 		{
-			"ShaderMapHash": "A87C5563E7D25265A0E7344B777B0AC833EB7E43",
+			"ShaderMapHash": "894BC36EA5226363DFA9D6A6A41C508EE553CEB1",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_AuraCircle_add.uasset"
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_1Meter_01"
 			]
 		},
 		{
-			"ShaderMapHash": "BA0FA0669A0DFC8EEF848959CCD1A69D3666C838",
+			"ShaderMapHash": "DDABBCB419C8AC20816B60B41776D3A6DA4DDE34",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Add_Unlit_EndGate.uasset"
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycWall_01"
 			]
 		},
 		{
-			"ShaderMapHash": "01C2FEE6FB81818D9E97A3DEF1F4963E8BB942EF",
+			"ShaderMapHash": "725ADD36AFF7E1476F68ECD83266188FCA08A7F8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Misc/M_Noise_Beam_01_IN_2.uasset"
+				"/Game/InfinityBladeEffects/Maps/LevelContent/Architecture/M_CycRoom_01"
 			]
 		},
 		{
-			"ShaderMapHash": "B78A77572A5AFB5B2138C550270127465EF5C161",
+			"ShaderMapHash": "69623EC0CC4DFE3DE6A8EBB43F68E1EAA7C7D78B",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Impact_IB_SubUV.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/M_Flag"
 			]
 		},
 		{
-			"ShaderMapHash": "43DA97814C708ACBD72B3A6FC2F01CC8C883EDE1",
+			"ShaderMapHash": "EA425B3D4DFD97CCD61C8AB468838B2EE1306A77",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_Flares_Grid.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/base_material"
 			]
 		},
 		{
-			"ShaderMapHash": "1A8BD2B3E49DE2BA22C06A7E1D0E7FC4B3CC4DF2",
+			"ShaderMapHash": "CE4B1B8BCE2F42A8BB93C0EFF2B45D06AAE565E7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans_MeshMat.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_WorldUV_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "A356033E6F766BBE0B29199F13392769047DAA30",
+			"ShaderMapHash": "7CB57216AB22B674ED4F1EF1436EFCD5DD1178D1",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03_add.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/water_Translucent_material"
 			]
 		},
 		{
-			"ShaderMapHash": "DD31C7B8E1A2D49F6B93F3D8CC114C21A71CA956",
+			"ShaderMapHash": "E10A2BC2D091E09C5C682C701F6C2314540AF834",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_FogPlane03.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Alpha_Material"
 			]
 		},
 		{
-			"ShaderMapHash": "6CFC746BBDA20C3A03B27BAFA8A66152DEC6D03B",
+			"ShaderMapHash": "23147405087708234659A967ED73C5E8B6972ED8",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_FogPlane02.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Foliage_mat"
 			]
 		},
 		{
-			"ShaderMapHash": "AE2B8C59EEEE73812D3FA5A4DD5379896C5AABCB",
+			"ShaderMapHash": "2748AC2BEA88FB36C36AE7B5948D79C84775C28F",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_FogPlane01.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Int_WorldUV_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "E14F81D293C29C4E3A0791B2F07EE35A909086F0",
+			"ShaderMapHash": "866F555E0369D9F8A0130C01CEF9EB36B9CB2BF7",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_Embers.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Lum_Pattern_material"
 			]
 		},
 		{
-			"ShaderMapHash": "5D68DC3E8F6B1ED24CFE515B0C259CA6975EF39B",
+			"ShaderMapHash": "19338E52CCAB6FAEF37E67E331D7ABB6E9407501",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/InfinityBladeEffects/Effects/FX/M_BloomPlane.uasset"
+				"/Game/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material"
 			]
 		},
 		{
-			"ShaderMapHash": "F85999E1350EACAB33E34E822FE4CAE9953AAC0F",
+			"ShaderMapHash": "921056FB848F11B8C7E65B13E98742379241E185",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Color.uasset"
+				"/Game/怪物/skeletonZombie_Material"
 			]
 		},
 		{
-			"ShaderMapHash": "B0F1711F2D46F1B95CA68278D5E814426854A65C",
+			"ShaderMapHash": "EDC2EDBC79360E0F37630D4634A7EE2C6807EE6A",
 			"Assets": [
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Camo.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Striped.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val_Black_Camo.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U_LeafSpray.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47_Pattern.uasset",
-				"../../../../../../KID/Projects/Unreal/Unreal_KID_3D_FPS_20210729/FPS_3D_20210729/Content/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4_Pattern.uasset"
+				"/Game/子彈箱/m_ammo_box"
+			]
+		},
+		{
+			"ShaderMapHash": "350FEE8A547446051B796749179B9CFBA12C44C1",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Paint_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "771FA949B4E0E5120BBFC6FD7098ABC6779F8C2D",
+			"Assets": [
+				"/Game/City_of_Brass_Enviroment/Materials/Paint_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "8ABE08D8AC2F076BB0984E7E82E4C6F963C6CCF3",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase"
+			]
+		},
+		{
+			"ShaderMapHash": "960C6549023D7C7581808CA07E3C38745DD006FF",
+			"Assets": [
+				"/Game/素材/M_子彈"
+			]
+		},
+		{
+			"ShaderMapHash": "23F8D71B3BE027449831E62236E4CEF9B26FA40A",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "456BA08C5701C5897E996D65D4A7F796E7317BEF",
+			"Assets": [
+				"/Game/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "DFB8307D8C8673B90DA770CF801BCD7C4F3B5B42",
+			"Assets": [
+				"/Game/素材/M小地圖"
 			]
 		}
 	]
